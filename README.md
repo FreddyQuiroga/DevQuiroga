@@ -1,21 +1,21 @@
-<!-- Encabezado animado -->
+<!-- Animated Header -->
 <h1 align="center">
-  👋 ¡Hola, soy <a href="https://github.com/FreddyQuiroga">Freddy Quiroga</a>!
+  👋 Hey there, I'm <a href="https://github.com/FreddyQuiroga">Freddy Quiroga</a>!
 </h1>
 
-<h3 align="center">💻 Desarrollador Web Fullstack | React.js • Next.js • Laravel • MySQL • PostGIS</h3>
+<h3 align="center">💻 Fullstack Web Developer | React.js • Next.js • Laravel • MySQL • PostGIS</h3>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-Soy un apasionado de la tecnología y el desarrollo web 🌍.  
-Actualmente me enfoco en crear **aplicaciones web modernas y eficientes**, integrando **inteligencia artificial**, **automatización** y **diseño limpio**.  
-Mi meta es trabajar **remotamente desde Bolivia** para empresas internacionales 🚀.
+I'm a passionate **Web Developer** from **Bolivia 🇧🇴**, focused on creating **modern and efficient web applications** that integrate  
+**AI**, **automation**, and **clean design**.  
+My goal is to work **remotely with international companies**, contributing to innovative and impactful digital projects 🚀.
 
 ---
 
-### ⚙️ Tecnologías y Herramientas
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,mysql,postgres,postgis,git,github,linux,vscode,tailwind,docker" />
@@ -23,7 +23,7 @@ Mi meta es trabajar **remotamente desde Bolivia** para empresas internacionales 
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FreddyQuiroga&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -36,7 +36,7 @@ Mi meta es trabajar **remotamente desde Bolivia** para empresas internacionales 
 
 ---
 
-### 🌐 Conectemos
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/freddyquiroga/" target="_blank">
@@ -52,24 +52,24 @@ Mi meta es trabajar **remotamente desde Bolivia** para empresas internacionales 
 
 ---
 
-### 🧩 Proyectos Destacados
+### 🧩 Featured Projects
 
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
-| 🪟 **American Windows** | Sistema web de automatización de medidas y costos con aprendizaje automático. | Laravel, JS, MySQL, AI |
-| 🗺️ **Catastro Municipal** | Gestión de predios y construcciones con QGIS y PostGIS. | PHP, Leaflet, PostGIS |
-| 🧮 **Calculadora Educativa** | App para niños que aprenden operaciones básicas. | React.js, TailwindCSS |
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🪟 **American Windows** | Web system for automated measurement and cost calculation using ML. | Laravel, JS, MySQL, AI |
+| 🗺️ **Municipal Cadastre** | Land and building management with QGIS & PostGIS integration. | PHP, Leaflet, PostGIS |
+| 🧮 **Kids Calculator** | Fun learning app for children to practice basic math operations. | React.js, TailwindCSS |
 
 ---
 
-### 🎯 Mi filosofía de desarrollo
+### 🎯 My Development Philosophy
 
-> “El código limpio es como un buen chiste: no necesita explicación.”  
+> “Clean code is like a good joke — it needs no explanation.”  
 > — *Freddy Quiroga*
 
 ---
 
-### 🐍 Mi contribución al ecosistema (animado)
+### 🐍 My GitHub Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FreddyQuiroga/FreddyQuiroga/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -77,16 +77,16 @@ Mi meta es trabajar **remotamente desde Bolivia** para empresas internacionales 
 
 ---
 
-### 🪄 Extras visuales
+### 🪄 Typing Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Fullstack;Amante+de+la+IA+y+la+automatización;Apasionado+por+crear+soluciones+digitales;Aprendiendo+cada+día+algo+nuevo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;AI+and+Automation+Enthusiast;Building+Modern+Digital+Solutions;Always+Learning+New+Things!" />
 </p>
 
 ---
 
-💬 **"Si puedes imaginarlo, puedes programarlo."**
+💬 **"If you can imagine it, you can code it."**
 
 ---
 
-<p align="center">⭐️ Hecho con ❤️ por <a href="https://github.com/FreddyQuiroga">Freddy Quiroga</a></p>
+<p align="center">⭐️ Made with ❤️ by <a href="https://github.com/FreddyQuiroga">Freddy Quiroga</a></p>
